@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\origi\myDocuments\repos\peekAddress\x64\Debug\peekAddress.exe</FullPath>
+      <FullPath>C:\Users\origi\myDocuments\repos\peekAddress\build\x64\Debug\peekAddress.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
